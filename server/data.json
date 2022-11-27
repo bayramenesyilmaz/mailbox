@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Bayram Enes YILMAZ",
+            "email": "bay.enes@hotmail.com",
+            "password": "enes123",
+            "message": [
+                {
+                    "id": 1,
+                    "subject": "Hi Again",
+                    "content": "Just wanted to check on you",
+                    "isRead": true
+                },
+                {
+                    "id": 2,
+                    "subject": "Hi Friend",
+                    "content": "Just wanted to let you know I’ m good",
+                    "isRead": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Ahmet Yılmaz",
+            "email": "ahmet@hotmail.com",
+            "password": "ahmet123",
+            "message": [
+                {
+                    "id": 1,
+                    "subject": "Hi Again",
+                    "content": "Just wanted to check on you",
+                    "isRead": false
+                },
+                {
+                    "id": 2,
+                    "subject": "Hi Friend",
+                    "content": "Just wanted to let you know I’ m good",
+                    "isRead": false
+                }
+            ]
+        }
+    ]
+}
