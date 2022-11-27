@@ -17,7 +17,7 @@ Projede backend kısmında node.js frontend kısmında react.js kullandım.
 !["gif"](./images/bandicam%202022-11-27%2017-21-46-503.gif)
 
 ## Proje ekran görüntüleri : 
-!["resim"](./images/about.png)
+!["resim"](./images/anasayfa.png)
 !["resim"](./images/about.png)
 !["resim"](./images/mesajlar.png)
 !["resim"](./images/mesaj_detay.png)
